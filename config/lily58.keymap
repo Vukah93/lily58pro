@@ -59,10 +59,10 @@
             //                     |      |      |      |        |  |       |      |       |       |
 
             bindings = <
-&bt BT_CLR      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                                         &trans              &trans      &trans        &trans   &trans       &studio_unlock
-&kp TAB         &kp F1        &kp F2        &kp F3        &kp F4        &kp F5                                               &kp PAGE_UP         &kp HOME    &kp UP_ARROW  &kp END  &kp C_PLAY   &kp DEL
-&kp LEFT_SHIFT  &kp F6        &kp F7        &kp F8        &kp F9        &kp F10                                              &kp PAGE_DOWN       &kp LEFT    &kp DOWN      &kp UP   &kp C_PAUSE  &trans
-&kp LCTRL       &kp F11       &kp F12       &kp F13       &kp F14       &kp F15       &kp LC(LS(RIGHT))    &kp LC(LS(LEFT))  &kp LC(LA(DELETE))  &kp LA(F4)  &none         &none    &none        &kp CAPS
+&bt BT_CLR      &bt BT_SEL 0  &bt BT_SEL 1  &bt BT_SEL 2  &bt BT_SEL 3  &bt BT_SEL 4                                         &trans              &trans      &trans        &trans           &trans       &studio_unlock
+&kp TAB         &kp F1        &kp F2        &kp F3        &kp F4        &kp F5                                               &kp PAGE_UP         &kp HOME    &kp UP_ARROW  &kp END          &kp C_PLAY   &kp DEL
+&kp LEFT_SHIFT  &kp F6        &kp F7        &kp F8        &kp F9        &kp F10                                              &kp PAGE_DOWN       &kp LEFT    &kp DOWN      &kp RIGHT_ARROW  &kp C_PAUSE  &trans
+&kp LCTRL       &kp F11       &kp F12       &kp F13       &kp F14       &kp F15       &kp LC(LS(RIGHT))    &kp LC(LS(LEFT))  &kp LC(LA(DELETE))  &kp LA(F4)  &none         &none            &none        &kp CAPS
                                             &trans        &trans        &trans        &trans               &trans            &trans              &trans      &trans
             >;
 
