@@ -95,7 +95,7 @@ layers:
   - PAGE DOWN
   - LEFT
   - DOWN
-  - UP
+  - RIGHT ARROW
   - PAUSE
   - {t: ▽, type: trans}
   - LCTRL
